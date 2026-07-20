@@ -25,4 +25,13 @@ colors=["white","red","grey","red","yellow"]
 a,b,c,d,e=colors #! Destruct işlemidir ,React'ta vs. yaygın olarak kullanılır 
 print(a,b,c,d,e)
 
+#? output variables
+#* + ile birleştirilirse otomatik aralarında boşluk olur, matematiksel işlemlerde de kullanılır 
+#* , ile birleştirilirse aralarında boşluk olmaz 
+degisken1="Şebnem"
+degisken2="Ferah"
+degisken3="Hoşçakal"
+print(degisken1+degisken2+degisken3)
+print(degisken1,degisken2,degisken3)
+
 
