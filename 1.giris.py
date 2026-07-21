@@ -2,6 +2,9 @@
 #? çıktı vermek için kullanılır
 print ("Python Giris")
 
+#? çıktı almak için kullanılır
+input("Sayı gir: ")
+
 #? değişkene atanan değer, değişkenin tipi olur
 a = 1
 a = "veysel"
