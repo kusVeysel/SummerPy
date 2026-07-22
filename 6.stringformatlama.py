@@ -20,3 +20,10 @@ ortalama = (float(notVize)+float(notFinal))/2
 result = f"Vize notun: {notVize}   Final notun: {notFinal}   Sınav ortalaman: {ortalama}"
 
 print(result)
+
+
+#?
+metin = "My name is Veysel {:<3} , I am 18"
+#* {:<3} 3 adet boşluk bırakır sola yaslar
+#* {:>3} 3 adet boşluk bırakır sağa yaslar
+print(metin.format(7))
