@@ -75,7 +75,3 @@ print(metin.format(19))
 #* {:x} formatı hexadecimal tabanda gösterir
 metin = "{0}'un hexadecimal(16lık) tabanda gösterimi: {0:x}"
 print(metin.format(250))
-
-
-
-
