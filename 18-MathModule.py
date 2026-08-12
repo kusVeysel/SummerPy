@@ -18,10 +18,6 @@ print("math.asinh(7) =>",math.asinh(7))
 print("math.atan(0.4) =>",math.atan(0.4))
 print("math.atan2(8,5) =>",math.atan2(8,5))
 print("math.atanh(0.59) =>",math.atanh(0.59))
-print("math.cos(0) =>",math.cos(0))
-print("math.cosh(1) =>",math.cosh(1))
-print("math.sin(0) =>",math.sin(0))
-print("math.sinh(0) =>",math.sinh(0))
 
 #?
 print()
